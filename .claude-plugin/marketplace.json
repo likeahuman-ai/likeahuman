@@ -1,0 +1,99 @@
+{
+  "name": "likeahuman",
+  "owner": {
+    "name": "LikeAHuman.ai",
+    "email": "academy@likeahuman.ai"
+  },
+  "plugins": [
+    {
+      "name": "development",
+      "description": "Dev workflow — /plan /tickets /build /review /localhost /launch /help",
+      "version": "4.0.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/development.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/development"
+    },
+    {
+      "name": "orientation",
+      "description": "Orientation — survey, routing, and feasibility report",
+      "version": "1.1.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/orientation.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/orientation"
+    },
+    {
+      "name": "guided-build",
+      "description": "Guided build — compressed dev flow",
+      "version": "3.0.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/guided-build.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/guided-build"
+    },
+    {
+      "name": "font-hunt",
+      "description": "Research unique fonts from real indie foundries — refuses generic AI defaults",
+      "version": "1.1.1",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/font-hunt.git"
+      },
+      "category": "design",
+      "homepage": "https://github.com/likeahuman-ai/font-hunt"
+    },
+    {
+      "name": "branding-pitch",
+      "description": "Pitch a brand end-to-end — visual DNA, AI photography + video, editorial landing page",
+      "version": "1.3.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/branding-pitch.git"
+      },
+      "category": "design",
+      "homepage": "https://github.com/likeahuman-ai/branding-pitch"
+    },
+    {
+      "name": "coding-standards",
+      "description": "Interview developers, generate personalized coding standards, enforce with pre-commit hooks",
+      "version": "1.0.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/coding-standards.git"
+      },
+      "category": "quality",
+      "homepage": "https://github.com/likeahuman-ai/coding-standards"
+    }
+  ]
+}
