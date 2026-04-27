@@ -8,7 +8,7 @@
     {
       "name": "development",
       "description": "Dev workflow \u2014 /plan /tickets /build /review /localhost /launch /help",
-      "version": "4.0.0",
+      "version": "4.1.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
