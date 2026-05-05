@@ -7,8 +7,8 @@
   "plugins": [
     {
       "name": "development",
-      "description": "Dev workflow \u2014 /plan /tickets /build /review /localhost /launch /help",
-      "version": "4.2.0",
+      "description": "Full dev pipeline for building with AI — plan a PRD, break it into tickets, build with subagents, multi-agent code review, fix findings. Beginner-friendly with guided deployment.",
+      "version": "4.3.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -21,9 +21,24 @@
       "homepage": "https://github.com/likeahuman-ai/development"
     },
     {
+      "name": "development-advanced",
+      "description": "Advanced dev pipeline with architectural decision records and living specs — plan with ADR capture, tickets, subagent builds, multi-agent review, structured close-out with spec updates.",
+      "version": "0.1.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/development-advanced.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/development-advanced"
+    },
+    {
       "name": "orientation",
-      "description": "Orientation \u2014 survey, routing, and feasibility report",
-      "version": "1.1.0",
+      "description": "Discover your skill level and get routed to the right starting point — guided survey, feasibility assessment, personalised track recommendation.",
+      "version": "1.2.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -37,8 +52,8 @@
     },
     {
       "name": "guided-build",
-      "description": "Guided build \u2014 compressed dev flow",
-      "version": "3.0.0",
+      "description": "Build your first project with AI in one session — compressed plan-to-deploy flow with guardrails for complete beginners.",
+      "version": "3.1.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -52,7 +67,7 @@
     },
     {
       "name": "font-hunt",
-      "description": "Research unique fonts from real indie foundries \u2014 refuses generic AI defaults",
+      "description": "Research unique fonts from real indie foundries — refuses generic AI defaults",
       "version": "1.1.1",
       "author": {
         "name": "LikeAHuman.ai",
@@ -67,7 +82,7 @@
     },
     {
       "name": "branding-pitch",
-      "description": "Pitch a brand end-to-end \u2014 visual DNA, AI photography + video, editorial landing page",
+      "description": "Pitch a brand end-to-end — visual DNA, AI photography + video, editorial landing page",
       "version": "1.3.0",
       "author": {
         "name": "LikeAHuman.ai",
@@ -94,21 +109,6 @@
       },
       "category": "quality",
       "homepage": "https://github.com/likeahuman-ai/coding-standards"
-    },
-    {
-      "name": "development-advanced",
-      "description": "Advanced dev workflow \u2014 /plan (+ ADRs) /tickets /build /review /refine (+ spec)",
-      "version": "0.1.0",
-      "author": {
-        "name": "LikeAHuman.ai",
-        "email": "academy@likeahuman.ai"
-      },
-      "source": {
-        "source": "url",
-        "url": "https://github.com/likeahuman-ai/development-advanced.git"
-      },
-      "category": "development",
-      "homepage": "https://github.com/likeahuman-ai/development-advanced"
     }
   ]
 }
