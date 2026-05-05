@@ -8,7 +8,7 @@
     {
       "name": "development",
       "description": "Dev workflow \u2014 /plan /tickets /build /review /localhost /launch /help",
-      "version": "4.1.0",
+      "version": "4.2.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -94,6 +94,21 @@
       },
       "category": "quality",
       "homepage": "https://github.com/likeahuman-ai/coding-standards"
+    },
+    {
+      "name": "development-advanced",
+      "description": "Advanced dev workflow \u2014 /plan (+ ADRs) /tickets /build /review /refine (+ spec)",
+      "version": "0.1.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/development-advanced.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/development-advanced"
     }
   ]
 }
