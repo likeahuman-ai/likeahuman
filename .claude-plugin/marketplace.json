@@ -8,7 +8,7 @@
     {
       "name": "development",
       "description": "Full dev pipeline for building with AI — plan a PRD, break it into tickets, build with subagents, multi-agent code review, fix findings. Beginner-friendly with guided deployment.",
-      "version": "4.4.0",
+      "version": "4.5.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -23,7 +23,7 @@
     {
       "name": "development-advanced",
       "description": "Advanced dev pipeline with architectural decision records and living specs — plan with ADR capture, tickets, subagent builds, multi-agent review, structured close-out with spec updates.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
