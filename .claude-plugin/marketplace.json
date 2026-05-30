@@ -23,7 +23,7 @@
     {
       "name": "development-advanced",
       "description": "Advanced dev pipeline with wave-based parallel execution, ADRs, and living specs — plan with ADR capture, tickets with wave analysis, parallel subagent builds, multi-agent review, structured close-out with spec updates.",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
