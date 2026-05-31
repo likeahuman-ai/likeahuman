@@ -8,7 +8,7 @@
     {
       "name": "development",
       "description": "Full dev pipeline for building with AI — plan a PRD, break it into tickets, build with subagents, multi-agent code review, fix findings. Beginner-friendly with guided deployment.",
-      "version": "4.5.5",
+      "version": "4.6.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -53,7 +53,7 @@
     {
       "name": "guided-build",
       "description": "Build your first project with AI in one session — compressed plan-to-deploy flow with guardrails for complete beginners.",
-      "version": "3.1.0",
+      "version": "3.3.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
