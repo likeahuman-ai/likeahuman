@@ -36,6 +36,21 @@
       "homepage": "https://github.com/likeahuman-ai/development-advanced"
     },
     {
+      "name": "development-advanced-team",
+      "description": "Team-grade dev workflow on Jujutsu (jj) with trunk-based rebase-land flow — sprint planning with ADR capture, ticket breakdown with wave analysis, parallel subagent builds, multi-agent review, and structured close-out with living-spec sync. v1 prototype.",
+      "version": "0.1.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/development-advanced-team.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/development-advanced-team"
+    },
+    {
       "name": "orientation",
       "description": "Discover your skill level and get routed to the right starting point — guided survey, feasibility assessment, personalised track recommendation.",
       "version": "1.2.0",
