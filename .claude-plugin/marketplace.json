@@ -38,7 +38,7 @@
     {
       "name": "development-advanced-team",
       "description": "Team-grade dev workflow on Jujutsu (jj) with trunk-based rebase-land flow — sprint planning with ADR capture, ticket breakdown with wave analysis, parallel subagent builds, multi-agent review, and structured close-out with living-spec sync. v1 prototype.",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
