@@ -124,6 +124,21 @@
       },
       "category": "quality",
       "homepage": "https://github.com/likeahuman-ai/coding-standards"
+    },
+    {
+      "name": "plugin-creator",
+      "description": "Build Claude Code plugins with the rigour of a code workflow — sprint planning against a living standard, specialist writer agents for skills, agents, hooks and formats, and an adversarial prose-review roster. v1 prototype.",
+      "version": "0.1.0",
+      "author": {
+        "name": "LikeAHuman.ai",
+        "email": "academy@likeahuman.ai"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/likeahuman-ai/plugin-creator.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/likeahuman-ai/plugin-creator"
     }
   ]
 }
