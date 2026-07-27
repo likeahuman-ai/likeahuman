@@ -127,7 +127,7 @@
     },
     {
       "name": "plugin-creator",
-      "description": "Build Claude Code plugins with the rigour of a code workflow — sprint planning against a living standard, specialist writer agents for skills, agents, hooks and formats, and an adversarial prose-review roster. v1 prototype.",
+      "description": "Create Claude Code plugins for any workflow and keep improving them — each plugin gets its own standard for what good looks like, a rubric to measure against, and a test suite that grows with every fix. v1 prototype.",
       "version": "0.1.0",
       "author": {
         "name": "LikeAHuman.ai",
