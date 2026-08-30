@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "development",
-      "description": "Full dev pipeline for building with AI — plan a PRD, break it into tickets, build with subagents, multi-agent code review, fix findings. Beginner-friendly with guided deployment.",
+      "description": "Full dev pipeline for building with AI \u2014 plan a PRD, break it into tickets, build with subagents, multi-agent code review, fix findings. Beginner-friendly with guided deployment.",
       "version": "4.6.1",
       "author": {
         "name": "LikeAHuman.ai",
@@ -22,7 +22,7 @@
     },
     {
       "name": "development-advanced",
-      "description": "Advanced dev pipeline with wave-based parallel execution, ADRs, and living specs — plan with ADR capture, tickets with wave analysis, parallel subagent builds, multi-agent review, structured close-out with spec updates.",
+      "description": "Advanced dev pipeline with wave-based parallel execution, ADRs, and living specs \u2014 plan with ADR capture, tickets with wave analysis, parallel subagent builds, multi-agent review, structured close-out with spec updates.",
       "version": "1.0.0",
       "author": {
         "name": "LikeAHuman.ai",
@@ -37,7 +37,7 @@
     },
     {
       "name": "development-advanced-team",
-      "description": "Team-grade dev workflow on Jujutsu (jj) with trunk-based rebase-land flow — sprint planning with ADR capture, ticket breakdown with wave analysis, parallel subagent builds, multi-agent review, and structured close-out with living-spec sync. v1 prototype.",
+      "description": "Team-grade dev workflow on Jujutsu (jj) with trunk-based rebase-land flow \u2014 sprint planning with ADR capture, ticket breakdown with wave analysis, parallel subagent builds, multi-agent review, and structured close-out with living-spec sync. v1 prototype.",
       "version": "0.5.0",
       "author": {
         "name": "LikeAHuman.ai",
@@ -52,7 +52,7 @@
     },
     {
       "name": "orientation",
-      "description": "Discover your skill level and get routed to the right starting point — guided survey, feasibility assessment, personalised track recommendation.",
+      "description": "Discover your skill level and get routed to the right starting point \u2014 guided survey, feasibility assessment, personalised track recommendation.",
       "version": "1.2.0",
       "author": {
         "name": "LikeAHuman.ai",
@@ -67,8 +67,8 @@
     },
     {
       "name": "guided-build",
-      "description": "Build your first project with AI in one session — compressed plan-to-deploy flow with guardrails for complete beginners.",
-      "version": "3.3.1",
+      "description": "Build your first project with AI in one session \u2014 compressed plan-to-deploy flow with guardrails for complete beginners.",
+      "version": "4.0.0",
       "author": {
         "name": "LikeAHuman.ai",
         "email": "academy@likeahuman.ai"
@@ -82,7 +82,7 @@
     },
     {
       "name": "font-hunt",
-      "description": "Research unique fonts from real indie foundries — refuses generic AI defaults",
+      "description": "Research unique fonts from real indie foundries \u2014 refuses generic AI defaults",
       "version": "1.1.1",
       "author": {
         "name": "LikeAHuman.ai",
@@ -97,7 +97,7 @@
     },
     {
       "name": "branding-pitch",
-      "description": "Pitch a brand end-to-end — visual DNA, AI photography + video, editorial landing page",
+      "description": "Pitch a brand end-to-end \u2014 visual DNA, AI photography + video, editorial landing page",
       "version": "1.3.0",
       "author": {
         "name": "LikeAHuman.ai",
@@ -127,7 +127,7 @@
     },
     {
       "name": "plugin-creator",
-      "description": "Create Claude Code plugins for any workflow and keep improving them — each plugin gets its own standard for what good looks like, a rubric to measure against, and a test suite that grows with every fix. v1 prototype.",
+      "description": "Create Claude Code plugins for any workflow and keep improving them \u2014 each plugin gets its own standard for what good looks like, a rubric to measure against, and a test suite that grows with every fix. v1 prototype.",
       "version": "0.1.0",
       "author": {
         "name": "LikeAHuman.ai",
